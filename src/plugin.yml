@@ -1,0 +1,9 @@
+name: CustomProfessions
+main: guy.theoneandonly.customProfessions.CustomProfessions
+author: Guy
+version: 0.3.6
+commands:
+  cpro:
+    description: Used to check skill status.
+  cpa:
+    description: Used for console commands.
